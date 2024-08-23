@@ -12,7 +12,7 @@ Go modules enabled
 ## Installation
 - Clone the repository:
 
-``` git clone https://github.com/your-username/events-api.git```
+``` git clone https://github.com/stefanoracke/go-eventsapi.git```
 
 ```cd events-api```
 
